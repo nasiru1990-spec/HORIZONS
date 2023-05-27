@@ -1,0 +1,31 @@
+.navbar {
+width: 100% !important;background-color: transparent;align-content: flex-start !important;height: 10vh;
+}
+img {
+width: 85%;height: 8vh;float: left;
+}
+.nav-link {
+font-family:'Gill Sans MT'!important;font-size: larger;
+} 
+.d-block {
+height: 80vh;
+}
+h2 {
+display: flex;justify-content: center;align-items: center;
+font-family:'Gill Sans MT';margin-top: 35px;
+}
+.card-img-top {
+height:40vh;
+}
+.card-text {
+font-size: small;text-align: center;
+}
+.footer {
+border: 2px solid transparent;height: 25vh;background-color: rgb(5, 9, 59);color: white;margin-top: 80px;text-align: center;
+}
+.H-4 {
+color: goldenrod;padding: 15px;
+}
+.H-6 {
+color: yellowgreen;padding: 10px;
+}
